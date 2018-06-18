@@ -72,3 +72,5 @@ VrSamples/Native/CinemaSDK/Projects/Android/.idea/workspace.xml
 app/src/main/res/values/strings.xml
 VrSamples/Native/CinemaSDK/Projects/Android/.idea/workspace.xml
 VrSamples/Native/CinemaSDK/Projects/Android/android.debug.keystore
+!/3rdParty/minizip/build
+!/3rdParty/stb/build
